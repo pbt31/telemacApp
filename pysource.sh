@@ -7,7 +7,7 @@ export PATH=$HOMETEL/scripts/python27:.:$PATH
 # Configuration file
 export SYSTELCFG=$HOMETEL/configs/systel.cfg
 # Name of the configuration to use
-export USETELCFG=gfortranHPC
+export USETELCFG=$BUILD_CONFIG
 # Path to this file
 export SOURCEFILE=$HOMETEL/configs/pysource.sh
 ### Python
